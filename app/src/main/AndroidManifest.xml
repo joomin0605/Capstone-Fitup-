@@ -26,6 +26,8 @@
         <activity android:name=".HourglassShapeActivity" />
         <activity android:name=".RoundedShapeActivity" />
         <activity android:name=".TriangleShapeActivity" />
+        <activity android:name=".MyPageActivity" />
+        <activity android:name=".CreateAccount" />
     </application>
 
 </manifest>

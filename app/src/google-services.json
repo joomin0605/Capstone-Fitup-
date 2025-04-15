@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093143853504",
+    "project_id": "fitup-3e00c",
+    "storage_bucket": "fitup-3e00c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093143853504:android:3725443c993e209a3d7025",
+        "android_client_info": {
+          "package_name": "com.cookandroid.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmJWI4w6pCstnJjvK_N4fJYMCsjibyCiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
